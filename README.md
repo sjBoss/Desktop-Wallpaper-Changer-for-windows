@@ -1,5 +1,10 @@
 # Desktop-Wallpaper-Changer-for-windows
 
+# libraries used
+1. types
+2. shutil
+3. threading
+
 ---------------------------------------
 How To Install and Use WallpaperChanger
 ---------------------------------------
