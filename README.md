@@ -1,5 +1,4 @@
 # Desktop-Wallpaper-Changer-for-windows
-
 # libraries used
 1. types
 2. shutil
